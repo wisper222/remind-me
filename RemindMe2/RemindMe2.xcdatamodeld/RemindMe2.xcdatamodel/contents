@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19206" systemVersion="20G165" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithCloudKit="YES" userDefinedModelVersionIdentifier="">
+    <entity name="LiekInfo" representedClassName="LiekInfo" syncable="YES">
+        <attribute name="cas1" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="cas1True" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="cas2" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="cas2True" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="cas3" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="cas3True" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="cas4" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="cas4True" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="cas5" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="cas5True" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="iconColor" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="nazovLieku" optional="YES" attributeType="String"/>
+        <attribute name="nKratDenne" optional="YES" attributeType="String"/>
+        <attribute name="obedCas" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="obedCasTrue" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="pocetDni" optional="YES" attributeType="String"/>
+        <attribute name="pocetTabletiek" optional="YES" attributeType="String"/>
+        <attribute name="pocetTabletiekPociatocne" optional="YES" attributeType="String"/>
+        <attribute name="potvrdzovatDoplnenie" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="ranoCas" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="ranoCasTrue" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="tabletiekDenne" optional="YES" attributeType="String"/>
+        <attribute name="upozornovatMaloLiekov" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="vecerCas" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="vecerCasTrue" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="viacKratDenne" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="LiekInfo" positionX="-63" positionY="-18" width="128" height="434"/>
+    </elements>
+</model>
